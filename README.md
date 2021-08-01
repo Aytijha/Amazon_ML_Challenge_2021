@@ -1,7 +1,7 @@
 # Amazon_ML_Challenge_2021 <br />
  <br />
 Accuracy achieved: 51.64445% <br />
-Hackathon Score: 53.95847% <br />
+Hackathon Score: 54.55202% <br />
  <br />
 **Required files:** <br />
 <br />
